@@ -296,7 +296,7 @@ Full-Width Styles
   width: 44px;
   height: 44px;
   text-indent: -9999em;
-  background: transparent url('../images/blacktocat.png') 50% 50%;
+  background: transparent url('../images/blacktocat.png') no-repeat 50% 50%;
 }
 
 #header_wrap {
