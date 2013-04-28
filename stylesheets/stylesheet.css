@@ -273,7 +273,7 @@ Full-Width Styles
 .inner {
   position: relative;
   max-width: 640px;
-  padding: 20px 0px;
+  padding: 20px 10px;
   margin: 0 auto;
 }
 
@@ -301,8 +301,6 @@ Full-Width Styles
 }
 
 #header_wrap {
-  padding-left: 10px;
-  padding-right: 10px;
   background: #212121 url('../images/black_lozenge.png') repeat fixed;
   /*background: -moz-linear-gradient(top, #373737, #222222);*/
   /*background: -webkit-linear-gradient(top, #373737, #222222);*/
@@ -312,7 +310,7 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 0px 30px 0px;
+  padding: 50px 10px 30px 10px;
 }
 
 #project_title {
@@ -378,8 +376,6 @@ Full-Width Styles
 
 #main_content {
   padding-top: 40px;
-  padding-left: 10px;
-  padding-right: 10px;
 }
 
 #footer_wrap {
@@ -402,7 +398,7 @@ Small Device Styles
   }
 
   .inner {
-    min-width: 320px;
+    min-width: 300px;
     max-width: 480px;
   }
 
